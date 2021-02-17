@@ -1,4 +1,4 @@
-ggsci==2.9 
+ggsci
 factoextra==1.0.7  
 ggplot2==3.3.3      
 textmineR==3.0.4   
