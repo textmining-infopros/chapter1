@@ -1,3 +1,12 @@
+R version 4.0.2 (2020-06-22)
+Platform: x86_64-w64-mingw32/x64 (64-bit)
+Running under: Windows 10 x64 (build 19042)
+
+attached base packages:
+[1] stats     graphics  grDevices utils     datasets 
+[6] methods   base     
+
+other attached packages:
 ggsci==2.9 
 factoextra==1.0.7  
 ggplot2==3.3.3      
