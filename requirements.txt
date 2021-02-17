@@ -1,9 +1,17 @@
- [1] ggsci_2.9          factoextra_1.0.7  
- [3] ggplot2_3.3.3      textmineR_3.0.4   
- [5] Matrix_1.2-18      stringi_1.5.3     
- [7] tm_0.7-8           NLP_0.2-1         
- [9] cluster_2.1.0      wordcloud_2.6     
-[11] RColorBrewer_1.1-2 fpc_2.2-9         
-[13] RTextTools_1.4.3   SparseM_1.78      
-[15] proxy_0.4-24       readr_1.4.0       
+ggsci_2.9          
+factoextra_1.0.7  
+ggplot2_3.3.3      
+textmineR_3.0.4   
+Matrix_1.2-18      
+stringi_1.5.3     
+tm_0.7-8           
+NLP_0.2-1         
+luster_2.1.0      
+wordcloud_2.6     
+RColorBrewer_1.1-2 
+fpc_2.2-9         
+RTextTools_1.4.3   
+SparseM_1.78      
+proxy_0.4-24       
+readr_1.4.0       
 
