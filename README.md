@@ -1,4 +1,4 @@
-# Case Study 1B: Clustering of Text Documents in R
+# Case Study : Clustering of Text Documents
 
 This repository contains a reproducible research compendium for the case study used in the book:
 Manika Lamba and Margam Madhusudhan (2021) Text Mining: An Uncharted Territory for Librarians, Springer.
