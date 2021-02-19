@@ -1,5 +1,3 @@
-#install.packages(c("readr", "proxy", "RTextTools", "fpc", "wordcloud", "cluster", "tm", "stringi", "textmineR", "factoextra", "ggplot2"))
-
 #Load libraries
 library(readr)
 library(proxy)
@@ -12,9 +10,15 @@ library(stringi)
 library(textmineR)
 library(factoextra)
 library(ggplot2)
+library(igraph)
 
 #Load dataset from the github
 data <- read.csv("https://raw.githubusercontent.com/textmining-utl/chapter1/master/dataset.csv?token=ARBWLQ2P3JUCDWUN775L2TTAFS6B6")
+
+#avoid invalid multiple string with tolower()
+data[,sapply(data,is.character)] <- sapply(
+     data[,sapply(data,is.character)],
+     iconv,"WINDOWS-1252","UTF-8")
 
 #Create Document Term Matrix
 dtm <- CreateDtm(doc_vec = data$Abstract,
