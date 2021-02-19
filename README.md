@@ -9,9 +9,9 @@ Please cite this compendium as: xxxxxxx
 # Contents
 The compendium contains the data, code, and notebook associated with the case study. It is organized as follows:
 
-The dataset.csv file contains the data.
-The clustering.R file contains the R code.
-The Case_Study_1B.ipynb file contains Jupyter notebook.
+  - The 'dataset.csv' file contains the data.
+  - The 'clustering.R' file contains the R code.
+  - The 'Case_Study_1B.ipynb' file contains Jupyter notebook.
 
 # How to download or install
 There are several ways to use the compendium’s contents and reproduce
