@@ -1,0 +1,8 @@
+name: case study
+channels:
+  -conda-forge
+dependencies:
+  - python =3
+  - obsy >=1.2.0
+
+  
