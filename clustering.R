@@ -15,7 +15,7 @@ library(igraph)
 #Load dataset from the github
 data <- read.csv("https://raw.githubusercontent.com/textmining-utl/chapter1/master/dataset.csv?token=ARBWLQ2P3JUCDWUN775L2TTAFS6B6")
 
-#avoid invalid multiple string with tolower()
+#avoid invalid multiple string error with tolower()
 data[,sapply(data,is.character)] <- sapply(
      data[,sapply(data,is.character)],
      iconv,"WINDOWS-1252","UTF-8")
