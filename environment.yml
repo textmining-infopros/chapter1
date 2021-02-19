@@ -3,6 +3,6 @@ channels:
   -conda-forge
 dependencies:
   - python =3
-  - obsy >=1.2.0
+  - obspy >=1.2.0
 
   
