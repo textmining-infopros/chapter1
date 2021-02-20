@@ -7,11 +7,11 @@ Manika Lamba and Margam Madhusudhan (2021) Text Mining: An Uncharted Territory f
 Please cite this compendium as: xxxxxxx
 
 # Contents
-The compendium contains the data, code, and notebook associated with the case study. This case study is further divided into 1A, and 1B. 1A case study used Orange tool, and 1B case study used R programming language to perform clustering. Both the case study used the same data file: `dataset.csv`. It is organized as follows:
+The compendium contains the data, code, and notebook associated with the case study. This case study is further divided into 1A, and 1B. 1A case study used Orange tool, and 1B case study used R programming language to perform clustering. It is organized as follows:
 
-  - The `dataset.csv` file contains the data.
-  - The `clustering.R` file contains the R code.
-  - The `Case_Study_1B.ipynb` file contains Jupyter notebook.
+  - The `dataset.csv` file contains the data. The same dataset was used for both the case studies.
+  - The `clustering.R` file contains the R code for 1B case study.
+  - The `Case_Study_1B.ipynb` file contains Jupyter notebook for 1B case study.
 
 # How to download or install
 There are several ways to use the compendium’s contents and reproduce
