@@ -7,7 +7,7 @@ Manika Lamba and Margam Madhusudhan (2021) Text Mining: An Uncharted Territory f
 Please cite this compendium as: xxxxxxx
 
 # Contents
-The compendium contains the data, code, and notebook associated with the case study. It is organized as follows:
+The compendium contains the data, code, and notebook associated with the case study. This case study is further divided into 1A, and 1B. 1A case study used Orange tool, and 1B case study used R programming language to perform clustering. Both the case study used the same data file: `dataset.csv`. It is organized as follows:
 
   - The `dataset.csv` file contains the data.
   - The `clustering.R` file contains the R code.
