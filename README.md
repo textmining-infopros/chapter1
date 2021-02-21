@@ -29,11 +29,11 @@ the analysis:
     BinderHub on [mybinder.org](https://mybinder.org/):
     
       - Click
-        **Jupyter+R**: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/textmining-utl/chapter1/master?filepath=Case_Study_1B.ipynb) to launch an             interactive [Jupyter Notebook](https://jupyter.org/) session in your web browser. Notebook session in your web browser. When you execute code within the notebook, the 
-        results appear beneath the code.
+        **Jupyter+R**: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/textmining-utl/chapter1/master?filepath=Case_Study_1B.ipynb) to launch an             interactive [Jupyter Notebook](https://jupyter.org/) session in your web browser using [R](https://cloud.r-project.org/index.html) kernel. When you execute code 
+        within the notebook, the results appear beneath the code.
       - Click
-        **RStudio**: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/textmining-utl/chapter1/master?urlpath=rstudio)
-        to launch an interactive RStudio session in your web browser.
+        **RStudio**: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/textmining-utl/chapter1/master?urlpath=rstudio) to launch an interactive 
+        [RStudio](https://rstudio.com/) session in your web browser.
        
    - **Limitations of Binder**
      1. The server has limited memory so you cannot load large datasets or run big computations.
