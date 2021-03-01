@@ -1,6 +1,6 @@
 Type: Compendium
 Package: Clustering
-Title: What the Package Does (One Line, Title Case)
+Title: Clustering of Documents in R
 Version: 0.0.1
 Authors@R: 
   person(given = "Manika",
@@ -11,17 +11,17 @@ Authors@R:
 Description: Compendium description
 License: MIT + file LICENSE
 Depends: 
-  readr,
-proxy,
-RTextTools,
-fpc,
-wordcloud,
-cluster,
-tm,
-stringi,
-textmineR,
-factoextra,
-ggplot2,
-igraph
+    readr,
+    proxy,
+    RTextTools,
+    fpc,
+    wordcloud,
+    cluster,
+    tm,
+    stringi,
+    textmineR,
+    factoextra,
+    ggplot2,
+    igraph
 Encoding: UTF-8
 LazyData: true
