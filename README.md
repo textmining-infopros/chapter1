@@ -17,7 +17,7 @@ There are several ways to use the compendium’s contents and reproduce
 the analysis:
 
   - **Download the compendium as a zip archive** from this [GitHub
-    repository](https://github.com/textmining-utl/chapter1/archive/master.zip).
+    repository](https://github.com/textmining-infopros/chapter1/archive/master.zip).
     
       - After unpacking the downloaded zip archive, you can explore the
         files on your computer.
@@ -28,11 +28,11 @@ the analysis:
     BinderHub on [mybinder.org](https://mybinder.org/):
    
       - Click
-        **RStudio**: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/textmining-utl/chapter1/master?urlpath=rstudio) to launch an interactive 
+        **RStudio**: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/textmining-infopros/chapter1/master?urlpath=rstudio) to launch an interactive 
         [RStudio](https://rstudio.com/) session in your web browser.
         
        - Click
-        **Jupyter+R**: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/textmining-utl/chapter1/master?filepath=Case_Study_1B.ipynb) to launch an             interactive [Jupyter Notebook](https://jupyter.org/) session in your web browser using [R](https://cloud.r-project.org/index.html) kernel. When you execute code 
+        **Jupyter+R**: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/textmining-infopros/chapter1/master?filepath=Case_Study_1B.ipynb) to launch an             interactive [Jupyter Notebook](https://jupyter.org/) session in your web browser using [R](https://cloud.r-project.org/index.html) kernel. When you execute code 
         within the notebook, the results appear beneath the code.
        
        - **Limitations of Binder**
