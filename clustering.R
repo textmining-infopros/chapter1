@@ -12,7 +12,7 @@ library(factoextra)
 library(ggplot2)
 library(igraph)
 
-#Load dataset from the github
+#Load dataset 
 data <- read.csv("https://raw.githubusercontent.com/textmining-utl/chapter1/master/dataset.csv?token=ARBWLQ2P3JUCDWUN775L2TTAFS6B6")
 
 #avoid invalid multiple string error with tolower()
