@@ -3,6 +3,7 @@
 This repository contains a reproducible research compendium for the case study used in the book: Manika Lamba and Margam Madhusudhan (2021) Text Mining for Information Professionals: An Uncharted Territory, SpringerNature. 
 
 # How to cite
+![image](https://user-images.githubusercontent.com/71525827/125177852-d1a21280-e1fc-11eb-9a4b-108fbb127d03.png)
 Please cite this compendium as: xxxxxxx
 
 # Contents
