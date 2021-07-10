@@ -43,4 +43,4 @@ the analysis:
      
 ### Licenses
 
-**Code**, **Data :** [CC-BY-4.0](http://creativecommons.org/licenses/by/4.0/)
+**Code**, **Data :** MIT License
