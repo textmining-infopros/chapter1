@@ -10,7 +10,7 @@ This repository contains a reproducible research compendium for the case study u
 
 📫 For corrections/suggestions reach me at lambamanika07@gmail.com or create an issue [here](https://github.com/textmining-infopros/chapter1/issues)
 
-# How to cite
+# How to Cite
 Please cite this compendium as: **Lamba, Manika, & Madhusudhan, Margam. (2021). Clustering of Documents using Two Different Tools (Version 1.0). http://doi.org/10.5281/zenodo.5090186**
 
 # Contents
@@ -20,7 +20,7 @@ The compendium contains the data, code, and notebook associated with the case st
   - The `clustering.R` file contains the R code for 1B case study.
   - The `Case_Study_1B.ipynb` file contains Jupyter notebook for 1B case study.
 
-# How to download or install
+# How to Download or Install
 There are several ways to use the compendium’s contents and reproduce
 the analysis:
 
