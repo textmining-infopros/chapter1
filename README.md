@@ -4,6 +4,12 @@
 
 This repository contains a reproducible research compendium for the case study used in the book -- Manika Lamba and Margam Madhusudhan (2021) Text Mining for Information Professionals: An Uncharted Territory, SpringerNature. 
 
+🔭 [Springer Website](https://www.springer.com/in/book/9783030850845)
+
+🔭 [Authors' Book Website](https://textmining-infopros.github.io/)
+
+📫 For corrections/suggestions reach me at lambamanika07@gmail.com or create an issue [here](https://github.com/textmining-infopros/chapter1/issues)
+
 # How to cite
 Please cite this compendium as: **Lamba, Manika, & Madhusudhan, Margam. (2021). Clustering of Documents using Two Different Tools (Version 1.0). http://doi.org/10.5281/zenodo.5090186**
 
