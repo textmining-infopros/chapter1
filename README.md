@@ -15,7 +15,7 @@ This repository contains a reproducible research compendium for the case study u
 Please cite this compendium as: **Lamba, Manika, & Madhusudhan, Margam. (2021). Clustering of Documents using Two Different Tools (Version 1.0). http://doi.org/10.5281/zenodo.5090186**
 
 # Contents
-The compendium contains the data, code, and notebook associated with the case studies. This case study is further divided into 1A, and 1B. 1A case study used Orange tool, and 1B case study used R programming language to perform clustering. It is organized as follows:
+The compendium contains the data, code, and notebook associated with the case studies. It is divided into 1A, and 1B. 1A case study used Orange tool, and 1B case study used R programming language to perform clustering. It is organized as follows:
 
   - The `dataset.csv` file contains the data. The same dataset was used for both the case studies.
   - The `clustering.R` file contains the R code for 1B case study.
