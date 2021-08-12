@@ -1,0 +1,25 @@
+name: extmining-infoprosCHAPTER7-binderized
+channels:
+  - conda-forge
+  - bioconda
+  - r
+dependencies:
+  - r-base>=4
+  - r-irkernel>=1.1
+  - r-ggsci
+  - r-ggplot2
+  - r-textmineR
+  - r-Matrix
+  - r-stringi
+  - r-tm
+  - r- NLP
+  - r-cluster
+  - r-wordcloud
+  - r-RColorBrewer
+  - r-RTextTools
+  - r-SparseM
+  - r-proxy
+  - r-readr
+  - r-fpc
+  - r-factoextra
+  - r-igraph
