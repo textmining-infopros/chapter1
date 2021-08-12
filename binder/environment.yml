@@ -8,15 +8,13 @@ dependencies:
   - r-irkernel>=1.1
   - r-ggsci
   - r-ggplot2
-  - r-textmineR
   - r-Matrix
   - r-stringi
   - r-tm
-  - r- NLP
+  - r-NLP
   - r-cluster
   - r-wordcloud
   - r-RColorBrewer
-  - r-RTextTools
   - r-SparseM
   - r-proxy
   - r-readr
