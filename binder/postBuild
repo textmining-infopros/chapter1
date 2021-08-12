@@ -1,0 +1,11 @@
+# install the R packages not available via conda as described at You can install R packges from other sources using a postBuild script.
+# "You can install R packges from other sources using a postBuild script."
+# Calling the R script from inside a shell script is based on https://stackoverflow.com/a/18306656/8508004
+# Specifying the mirrors is based on https://stackoverflow.com/a/11488224/8508004 and was added because 
+# without them R complained.
+# Calling the R script and installing additional packages worked out by testing in terminal launched from https://github.com/binder-examples/r-conda
+# with an R script added that was called.
+# http://mazamascience.com/WorkingWithData/?p=728 under 'nstalling packages' was useful for learning about altenatives that
+# would work at shell script, see '$ R CMD INSTALL # at the shell prompt', but since need devtools too easier to use R the
+# way I'm trying. Later found https://github.com/matthewfeickert/R-in-Jupyter-with-Binder/blob/master/binder/postBuild used a similar way.
+Rscript binder/more_installs.R
