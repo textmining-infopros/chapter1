@@ -21,3 +21,5 @@ dependencies:
   - r-fpc
   - r-factoextra
   - r-igraph
+  - r-textmineR
+  - r-RTextTools
