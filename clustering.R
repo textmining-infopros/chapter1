@@ -10,6 +10,8 @@ library(text2vec)
 library(factoextra)
 library(ggplot2)
 library(igraph)
+library(RTextTools)
+library(textmineR)
 
 #Load dataset 
 data <- read.csv("https://raw.githubusercontent.com/textmining-utl/chapter1/master/dataset.csv?token=ARBWLQ2P3JUCDWUN775L2TTAFS6B6")
