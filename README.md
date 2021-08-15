@@ -12,7 +12,7 @@ This repository contains a reproducible research compendium for the case study u
 📫 For corrections/suggestions reach me at lambamanika07@gmail.com or create an issue [here](https://github.com/textmining-infopros/chapter1/issues)
 
 # How to Cite
-Please cite this compendium as: **Lamba, Manika, & Madhusudhan, Margam. (2021). Clustering of Documents using Two Different Tools (Version 1.0). http://doi.org/10.5281/zenodo.5090186**
+Please cite this compendium as: **Lamba, Manika, & Madhusudhan, Margam. (2021). Clustering of Documents using Two Different Tools (Version 1.1). https://doi.org/10.5281/zenodo.5203303**
 
 # Contents
 The compendium contains the data, code, and notebook associated with the case studies. It is divided into 1A, and 1B. 1A case study used Orange tool, and 1B case study used R programming language to perform clustering. It is organized as follows:
